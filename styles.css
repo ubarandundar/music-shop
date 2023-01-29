@@ -1,0 +1,81 @@
+body {
+    background-color: #E9ECEF;
+    font-family: 'Moon Dance', cursive;
+    font-family: 'PT Serif', serif;
+}
+
+.navbar {
+    background-color: #0e31f4;
+}
+
+.navbar-brand {
+    color: #eb4407;
+}
+
+.navbar-brand:hover {
+    color: white !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.nav-link:hover {
+    color: #eb4407 !important;
+}
+
+.jumbotron {
+    margin-top: 70px;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#aboutbttn {
+    background-color: #0e31f4;
+    color: #ffffff;
+    width: 250px;
+    height: 50px;
+}
+
+#aboutbttn:hover {
+    background-color: #3b4db0;
+    color: #ffffff;
+}
+
+#navImg {
+    border-radius: 50%;
+}
+
+#footer {
+    border: none !important;
+    margin-top: 20px !important;
+    text-align: center;
+}
+
+#aboutCard {
+    margin-top: 70px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+#urunlerTitle {
+    margin-top: 70px !important;
+}
+
+.products .card {
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.products .card .card-body {
+    display: flex;
+    flex-direction: column;
+}
